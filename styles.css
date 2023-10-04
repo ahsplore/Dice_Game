@@ -1,0 +1,34 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #5C5470;
+}
+
+h1 {
+  font-family: 'Kaushan Script', cursive;
+  margin: 30px;
+  text-shadow: 4px 0 #88304E;
+  font-size: 4rem;
+  color: #311D3F;
+}
+
+p {
+  font-size: 2rem;
+  text-shadow: 1px 0 #88304E;
+  color: #311D3F;
+  font-family: 'Bad Script', cursive;
+}
+
+img {
+  width: 50%;
+}
